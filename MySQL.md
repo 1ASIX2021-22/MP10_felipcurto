@@ -84,64 +84,47 @@
 <p align=center>
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_018.png>
 </p>     
-<p>Hi tornem a la imatge anterior i fem clic en download, després on posa user i password posem l’usuari i la contrasenya que hem trobat anteriorment, <b>també on fica database, posem tasks, importan ja que en la imatge no esta</b> i fem clic al botó de apply</p>
+<p>Ara crearem una taula dins la base de dades anomenada tasca 1</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676102-aebb286b-95c6-4b07-add8-cdec17ccb06f.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_019.png>
 </p>    
-<p>Aquí veiem com se’ns té que mostra actualment el Php</p>
+<p>Tornem a realitzar la sentencia anterior i com podem veure surt la tasca 1</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676635-88bf6014-28ba-47c6-918c-df0136d5dd9d.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_020.png>
 </p>     
-<p>Fem doble clic sobre tasks, se'ns obrira una pestanya nova i allí hi afegim la primera tasca fent clic dret i Add Row, quan ja l'hem afegit fem clic en la fletxa verda per penjar-ho al servidor</p>
+<p>Un cop acabat entrarem a la carpeta que hem creat durant la preparació de la maquina i crearem la seguent carpeta</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676716-df9582b9-4853-475a-9578-95859c9fcce9.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_021.png>
 </p>     
-<p>Tornem al workbench i fent clic en el botó del llamp ja podem veure com es mostra la taula creada al PhpStorm</p>
+<p>Ara entrem al Toolbox dins de la configuració de PHPstorm i activarem el "Generar scripts de shell" i farem clic a "Cambiar"</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676875-706d7692-a188-4828-beda-bd3c602a11f9.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_022.png>
 </p>    
-<p>Una altra forma de veure com s’ha creat es amb un <b>SELECT*FROM tasks</b> dintre del MySQL</p>
+<p>Seleccionem la carpeta phpstorm</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676925-ace692c1-934d-4bb4-a6ca-daa8606fece5.png>
-</p>     
-<p>Obrim un altre terminal hi anem a la carpeta Code, tot seguit, la nostre directori i alli hi creem una carpeta anomenada PHP_PDO.</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676993-aaf41eb7-b231-4ada-acea-433804dcdcbd.png>
-</p>    
-<p>Obrim el Toolbox, tot seguit, a settings, i activem la opció de <b>Generate shell scripts</b> que es trova dintre de Tools, després hi fem clic en change</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171677226-b0b08e8b-25fb-4f5b-8344-88f962806ea9.png>
-</p>
-<p>El qual ens obrirà una nova pestanya i allí fem click en new folder per crear una nova carpeta la qual anomenarem phpstorm, la seleccionem en els Folders i finalment presionem  OK, tornem al Toolbox i fem clic en Apply</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171677302-9c576c43-7fac-4473-80cb-152d2e4898aa.png>
-</p> 
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/169119903-2a8ec550-a32b-46e8-9382-8ac645399e0e.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_023.png>
 </p>  
-<p>Hi accedirem a la carpeta per fer-li un ls el qual ens motrar els executables següents:</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171677493-373b32e4-f17b-4a63-b315-514d65952c82.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_024.png>
+</p> 
+<p>Ara entrem a editar el seguent fitxer i li afegim la ultima linia que hi ha per crear un vincle</p>
+<p align=center>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_025.png>
+</p>    
+<p>Entrem a la carpeta anteriorment creada i executarem la comanda phpstorm</p>
+<p align=center>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_026.png>
+</p>
+<p>Ara crearem un fitxer php am Hola Mon! al seu interior</p>
+<p align=center>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_028.png>
+</p>  
+<p>Realitzem la seguent comanda per a que es vegi pel navegador</p>
+<p align=center>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_029.png>
 </p>   
-<p>Accedim a la carpeta de phpstorm i amb <b>joe ~/.zshrc</b> obrim l’editor i escrivim la ruta en la que es trova la carpeta phpstorm en la part inferior del fitxer</p>
+<p>Com podem veure es pot veure perfectament</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171677785-9a5703d3-4c28-4ba2-9992-481ea745584c.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_030.png>
 </p>  
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171677619-0682eb10-8a68-4a6a-a66f-bef2e68f5cb5.png>
-</p>    
-<p>Tornem a la carpeta PHP_PDO i executem <b>phpstorm .</b></p>
-<p>Automàticament quan entrem al phpstorm ens apareix una carpeta per obrir el PHP_PDO, l’obrim i creem un fitxer anomenat <b>index.php</b> </p>
-<p>Dintre del fitxer creat escrivim el següent</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171677973-6506f23d-6b02-4867-8918-d53f83e87ab7.png>
-</p>    
-<p>Tornem al terminal a la carpeta de PHP_PDO allí amb un ls ens mostrara l'índex creat, llavors si fem <b>php index.php</b> ens mostra el text escrit</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/169137727-a602c0cf-bf70-4f58-ad79-361b252aed38.png>
-</p> 
 
-<p>Si es vol es pot fer que ho retorni al servidor amb <b>php -S localhost:3306 index.php</b>, quan executem aquesta comanda se'ns obrira un link al qual accedim fent Ctrl clic esquerre</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171678039-6ebbc367-3e31-4cda-8a31-9f0792d8d666.png>
-</p>
