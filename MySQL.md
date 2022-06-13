@@ -76,19 +76,13 @@
 <p align=center>
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_016.png>
 </p>   
-<p>Ara procedirem a instalar el PhpSorm amb el toolbox i crear un nou projecte i accedim a l’apartat de database</p>
-<p>Accedim a l'apartat que mostra la imatge i en aquesta pestanya que ens mostra és el configurador de MySQL</p>
+<p>Instal.lem el seguent paquet que necessitarem per continuar</p>
 <p align=center>
-</p>  
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171675937-ffe7ad48-9489-408d-80cc-c85434a78e5a.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_017.png>
 </p> 
+<p>Ara ens dirigim a la secció Data Sources i assignem el usuari i contrasenya anteriors i crearem la base de dades tasks</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171675031-20b4d685-8272-4034-834c-48fdcb78cdb5.png>
-</p> 
-<p>Ens informa que no podem utilizar-ho ja que ens falten drivers, els quals instal·larem amb la comanda<b>sudo apt-get install php7.4-mysql</b></p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171676072-b1c5b864-2510-4c84-bc8e-194f20b95ee5.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_018.png>
 </p>     
 <p>Hi tornem a la imatge anterior i fem clic en download, després on posa user i password posem l’usuari i la contrasenya que hem trobat anteriorment, <b>també on fica database, posem tasks, importan ja que en la imatge no esta</b> i fem clic al botó de apply</p>
 <p align=center>
