@@ -28,31 +28,27 @@
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_005.png>
 </p>
      
-<h3>Una vegada dins de MySQL hi aprofitarem per provar certes coses: </h3>
-<p>Primer de tot hi posem la comanda <b>SHOW DATABASE;</b> on hi podem veure bases de dades creades per el nostre propi sistema operatiu</p>
+<h3>Ara que estem dins realitzarem algunes proves</h3>
+
+<p>Per començar crearem una base de dades anomenada tasks amb la següent comanda<b>CREATE DATABASE tasks;</b></p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171664186-13cb9413-2dfd-4ce1-8211-1e96301ede9c.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_006.png>
 </p>
-     
-<p>Ara hi crearem una base de dades amb la següent comanda<b>CREATE DATABASE tasks;</b> la qual tindrà el nom de tasks </p>
+<p>Comprovem que s'ha creat correctament amb la comanda <b>SHOW DATABASE</b></p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171664966-d13dc99e-237f-4c86-a5cb-322bc89d4b06.png>
-</p>
-<p>Tornem a posar <b>SHOW DATABASE</b> per comprovar que esta creada.</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171665066-fd7f10b1-103e-42f5-9476-494915eea538.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_007.png>
 </p>     
-<p>Amb la comanda <b>USE tasks</b> comencem a treballar amb tasks</p>
+<p>Amb la comanda <b>USE tasks</b> entrem a la base de dades</p>
 <p align=center>
-<img src=![image](https://user-images.githubusercontent.com/91246894/171665114-d33fad1c-1b83-4889-8338-e270a15b0783.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_008.png>
 </p>     
-<p>Procedirem a crear una taula dintre de tasks posan<b>CREATE TABLE tasks (descripion text, completed boolean);</b> i despres ho comprovem la seva creació amb un <b>SHOW tables;</b></p>
+<p>Creem una taula amb la comanda <b>CREATE TABLE tasks (descripion text, completed boolean);</b></p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171665280-bb59ac43-f0e4-4cda-8daa-80708196917d.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_009.png>
 </p>     
-<p>Un cop fet el anterior hi anirem a descarregar MySQL Workbench, per fer això hi anem al nostre navegador i busquem MySQL community downloads i en l'apartat de MySQL Workbench</p>
+<p>Ho comprovarem amb la comanda <b>SHOW TABLES;</b></p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171665638-99caa541-e5c7-4afe-8e6e-2951376b2fad.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_010.png>
 </p>
      
 <p>Quan ens trobem dins descarreguem el fitxer corresponent a la nostra versió del sistema</p>
