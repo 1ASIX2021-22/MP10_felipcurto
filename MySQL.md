@@ -12,10 +12,10 @@
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_002.png>
 </p>
 
-<p>Un cop ja tenim nmap instal·lat hi farem la comanda <b>nmap localhost</b>, com podem veure és el 3306/tcp open mysql</p>
+<p>Un cop ja tenim instal·lat el nmap buscarem el port de MySQL que es el 3306</p>
 
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171663181-cd9a2a0c-abaf-4e04-8a18-fbac05518023.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_003.png>
 </p>
      
 <p>Ara hi farem un <b>cat /etc/mysql/debian.cnf</b> on hi trobarem el usuari que es diu debian-sys-maint amb la seva contrasenya.</p>
