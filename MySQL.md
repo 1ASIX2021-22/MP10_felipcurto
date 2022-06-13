@@ -7,12 +7,7 @@
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_001.png>
 <p/>
 
-<p>Tot seguit, hi posarem mysql en el terminal i com és normal no ens deixa accedir amb el nostre usuari, proximament ho solucionarem!</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171662535-8bb4049a-dfe5-4097-8f24-41623579b4c4.png>
-</p>
-
-<p>Primer buscarem el port de MySQL per fer-ho necessitem la comanda nmap la qual es pot obtenir amb la comanda<b>apt-get install nmap</b></p>
+<p>Despres buscarem el port de MySQL per fer-ho necessitem el programa nmap</p>
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91246894/171662843-dddcfd70-1bbc-4390-8479-ad5cb5fff1b4.png>
 </p>
