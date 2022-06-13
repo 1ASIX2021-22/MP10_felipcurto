@@ -9,7 +9,7 @@
 
 <p>Despres buscarem el port de MySQL per fer-ho necessitem el programa nmap</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171662843-dddcfd70-1bbc-4390-8479-ad5cb5fff1b4.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_002.png>
 </p>
 
 <p>Un cop ja tenim nmap instal·lat hi farem la comanda <b>nmap localhost</b>, com podem veure és el 3306/tcp open mysql</p>
