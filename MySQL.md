@@ -2,9 +2,9 @@
 <h3>Aquest document es una documentació tecnica de com instal.lar i configurar el MySQL </h3>
 
 
-<p>El que farem primerament sera fer-hi la comanda <b>sudo apt-get install mysql-server</b></p>
+<p>Començem instal.lant el mysql-server amb la seguent comanda</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171662497-28ed918e-8290-4d6c-b2d0-68e1d71e1af9.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_001.png>
 <p/>
 
 <p>Tot seguit, hi posarem mysql en el terminal i com és normal no ens deixa accedir amb el nostre usuari, proximament ho solucionarem!</p>
