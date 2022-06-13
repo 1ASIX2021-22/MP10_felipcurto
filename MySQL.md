@@ -1,5 +1,5 @@
 <h1 align=center>Instal·lació sistema gestor de base de dades. MySQL</h1>
-<h3>En aquesta pràctica consisteix amb la instal·lació del sistema gestor de base de dades MySQL, per fer-ho hi ha que seguir aquest document on mostrarem pas a pas: </h3>
+<h3>Aquest document es una documentació tecnica de com instal.lar i configurar el MySQL </h3>
 
 
 <p>El que farem primerament sera fer-hi la comanda <b>sudo apt-get install mysql-server</b></p>
