@@ -51,18 +51,18 @@
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_010.png>
 </p>
      
-<p>Quan ens trobem dins descarreguem el fitxer corresponent a la nostra versió del sistema</p>
+<p>Instal.lem el MySQL Workbench amb la seguent comanda</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171665758-b1bdd4e2-6ff5-493f-81a4-fdb304773a89.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_011.png>
 </p>
 
-<p>Hi anirem al terminal, on ens ubicarem on esta el fitxer anteriorment descarregat en el meu cas Baixades/ i ficarem la següent comanda per instal·lar-lo <b>sudo dpkg -i "El Nom del nostre paquet"</b></p>  
+<p>Un cop instal.lat entrem al programa</p>  
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171665831-de8073c6-d792-4fe9-a04b-f09ccc4746d4.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_012.png>
 </p>     
-<p>Abans d'instal·lar-lo necessitem el mysql-workbench-community i procedim a instalarlo amb <b>mysql-workbench-community</b></p>
+<p>Ara farem clic dret a la instancia que hi ha creada per obrir el seguent menu i seleccionarem "Edit Connection"</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171666203-d7dac486-0078-4bb2-82cc-d767be837988.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_013.png>
 </p>     
 <p>Ens dona un error i el qual el solucionarem amb la següent comanda <b>apt --fix-broken install</b></p>
 <p align=center>
