@@ -18,14 +18,14 @@
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_003.png>
 </p>
      
-<p>Ara hi farem un <b>cat /etc/mysql/debian.cnf</b> on hi trobarem el usuari que es diu debian-sys-maint amb la seva contrasenya.</p>
+<p>Ara executarem la comanda <b>cat /etc/mysql/debian.cnf</b> on trobarem l'usuari i contrasenya</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171663559-c923885c-ea4d-46c9-a8e7-fbbd4e96dc29.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_004.png>
 </p>
      
-<p>Gracies que ja sabem la contrasenya, ja hi podrem accedir a mysql amb l'usuari fent la següent comanda <b>mysql -p -u debian-sys-maint</b></p>
+<p>Ara ja podrem accedir a mysql amb la següent comanda <b>mysql -p -u debian-sys-maint</b></p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171663946-b3a5fce4-0826-4dfb-9047-e383cb541212.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_005.png>
 </p>
      
 <h3>Una vegada dins de MySQL hi aprofitarem per provar certes coses: </h3>
