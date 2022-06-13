@@ -64,29 +64,17 @@
 <p align=center>
 <img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_013.png>
 </p>     
-<p>Ens dona un error i el qual el solucionarem amb la següent comanda <b>apt --fix-broken install</b></p>
+<p>Cambiem l'usuari pel que ens han indicat anteriorment</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171666299-a8fc19d4-1bd1-4db5-8786-60bf1fc1ad01.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_014.png>
 </p>     
-<p>Per tindreu tot instal·lat hi farem la següent comanda<b>sudo apt-get install libopengl0 libpcrecpp0v5 libproj15 libzip5</b></p>
+<p>Aqui simplement ens demana la contrasenya que anteriorment hem obtingut</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171666409-73109d29-08b8-4a30-a85f-f4b674015622.png>
-<img src=https://user-images.githubusercontent.com/91246894/171666720-50e9f3b1-91a8-400d-82ec-c4a6bec52227.png>
-</p>     
-<p>Una vegada hem instal·lat el workbench i anirem a un terminal hi ficarem mysql-workbench per iniciar-ho</p>  
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_015.png>
+</p>           
+<p>Busquem la base de dades creada amb la sentencia SELECT * FROM tasks.tasks i fent clic sobre el rayo. Veiem que ens mostrara les dos columnes creades anteriorment</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171666809-5a609027-91e0-425d-a784-357da15c4dfc.png>
-</p>     
-<p>No ens deixar accedir ja que no tenim l'usuari i la contrasenya configurada per fer-ho tindrem que anar-hi a <b>Edit Conneciton></b> i tindrem que ficar els que hem utilizat anteriorment</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171667162-9ce8a32e-1b1d-451e-9d2f-7bae9839c019.png>
-</p>   
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171667346-24600f04-1ea7-49f3-a6a0-b987d214f1c4.png>
-</p>   
-<p>Hi iniciem el workbench i busquem la base de dades creada, per fer-ho hi tenim que escriure SELECT * FROM tasks.tasks i fer clic sobre el relampago. Veiem que ens mostrara les dos columnes que hi tenim creades.</p>
-<p align=center>
-<img src=https://user-images.githubusercontent.com/91246894/171667833-ad33aca3-3f3e-49dd-9220-04a0134f4506.png>
+<img src=https://raw.githubusercontent.com/felipcurto/felipcurto/main/Imatges/Selecci%C3%B3_016.png>
 </p>   
 <p>Ara procedirem a instalar el PhpSorm amb el toolbox i crear un nou projecte i accedim a l’apartat de database</p>
 <p>Accedim a l'apartat que mostra la imatge i en aquesta pestanya que ens mostra és el configurador de MySQL</p>
